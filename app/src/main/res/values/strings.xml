@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="test1">String.xml Test</string>
+    <string name="test2">String.xml Test2</string>
+    <string name="change">값을 바꿨습니다.</string>
+    <string name="printstartext">TextView</string>
+    <string name="printstartextHint">별 갯수 입력</string>
+</resources>
