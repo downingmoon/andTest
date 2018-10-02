@@ -22,6 +22,7 @@
         android:textSize="30sp"
         android:text="@string/test2"/>
 
+
 </LinearLayout>
 
     <!-- @+id :  ID를 추가한다. tv:textview iv:imageview-->
