@@ -6,4 +6,13 @@
     <string name="printstartext">TextView</string>
     <string name="printstartextHint">별 갯수 입력</string>
     <string name="at_result"></string>
+    <string name="calcTitle">계산기</string>
+    <string name="play">재생</string>
+    <string name="song2">노래2번</string>
+    <string name="song1">노래1번</string>
+    <string name="pause">일시정지</string>
+    <string name="stop">정지</string>
+    <string name="resultbtn">=</string>
+
+    <string name="mp3Title">MP3플레이어</string>
 </resources>

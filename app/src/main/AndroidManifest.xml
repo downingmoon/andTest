@@ -13,16 +13,18 @@
         <activity android:name=".PrintStarActivity" />
         <activity android:name=".buttonalign2" />
         <activity android:name=".example">
+        </activity>
+        <activity android:name=".TwoActivity" />
+        <activity android:name=".ThreeActivity" />
+        <activity android:name=".examFirstAct" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TwoActivity">
-
-        </activity>
-        <activity android:name=".ThreeActivity"></activity>
+        <activity android:name=".examSecontAct" />
+        <activity android:name=".examThirdAct"></activity>
     </application>
 
 </manifest>

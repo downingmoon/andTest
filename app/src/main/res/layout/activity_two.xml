@@ -98,7 +98,7 @@
                     android:text="0"/>
                 <Button style="@style/buttons"
                     android:layout_weight="2"
-                    android:id="@+id/calcbtnResult"
+                    android:id="@+id/btnResult"
                     android:text="="/>
 
             </LinearLayout>

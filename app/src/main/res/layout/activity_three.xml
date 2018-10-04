@@ -5,11 +5,26 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ThreeActivity">
+    android:orientation="vertical"
+    tools:context=".FourActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="플레이어"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
+        <Button style="@style/mp3buttons"
+            android:text="노래1번"
+            android:id="@+id/song1"/>
+        <Button style="@style/mp3buttons"
+            android:text="노래2번"
+            android:id="@+id/song2"/>
+        <Button style="@style/mp3buttons"
+            android:text="일시정지"
+            android:id="@+id/pause"/>
+        <Button style="@style/mp3buttons"
+            android:text="정지"
+            android:id="@+id/stop"/>
+
+    </LinearLayout>
 </LinearLayout>
